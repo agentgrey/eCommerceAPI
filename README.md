@@ -26,7 +26,7 @@ $ http://localhost:8000
 * To view all products -> GET:  http://localhost:8000/products
 * To update a product's quantity -> POST:  http://localhost:8000/products/id/quant?quantity=value
    ``` (id represents the id of the product, value is the desired quantity)```
-* To delete a product -> DELETE:  http://localhost:8000/:id
+* To delete a product -> DELETE:  http://localhost:8000//products/:id
 
 ## Folder Structure
 ```
